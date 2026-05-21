@@ -34,8 +34,8 @@ const saad = {
   available : true, // open to remote opportunities
 
   currentlyWorkingOn: [
-    "Fitek — Healthcare Management & Workflow Platform (10k+ patients)",
-    "Urbanfits — Full-stack E-commerce with real-time rewards system",
+    "Fitek - Healthcare Management & Workflow Platform (10k+ patients)",
+    "Urbanfits - Full-stack E-commerce with real-time rewards system",
   ],
 
   specializations: [
@@ -109,7 +109,7 @@ const saad = {
 <td width="50%" valign="top">
 
 ### 🔧 [Hobarts CMMS](https://github.com/saad-devx)
-**ITW Hobarts — Solo-Architected**
+**ITW Hobarts - Solo-Architected**
 
 Full CMMS for enterprise asset & workflow management. Handles **1k+ orders/month** with complex multi-stage MongoDB aggregation pipelines. Query load reduced to **700–1300ms** from heavy nested lookups.
 
@@ -119,7 +119,7 @@ Full CMMS for enterprise asset & workflow management. Handles **1k+ orders/month
 <td width="50%" valign="top">
 
 ### 🛍 [Urbanfits](https://github.com/saad-devx/urbanfits)
-**Urban Soft Development, UAE — Solo-Architected**
+**Urban Soft Development, UAE - Solo-Architected**
 
 Full-stack single-vendor e-commerce with serverless architecture. Features an in-app rewards system, lucky draw spins, barcode card, dual-language, Stripe payments, and real-time notifications via Pusher. UX outperforms **80%** of e-commerce sites due to deferred optimistic updates.
 
@@ -130,7 +130,7 @@ Full-stack single-vendor e-commerce with serverless architecture. Features an in
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 [Fitek — Healthcare Platform](https://github.com/saad-devx)
+### 🏥 [Fitek - Healthcare Platform](https://github.com/saad-devx)
 **Sapient Complies**
 
 Modernized a healthcare management platform based on the **Medship** system, serving **10k+ active patients**. Implemented role-based access, orders management, patient demographics, and configurable medical templates with incision configuration.
@@ -184,10 +184,10 @@ Cross-platform Node.js library for **native OS-level keyboard simulation** with 
 
 ## 🎯 Currently Exploring
 
-- **GraphQL** — schema-first API design at scale  
-- **Turborepo** — monorepo architecture for enterprise Next.js apps  
-- **Edge Runtime & RSC** — pushing Next.js App Router to its limits  
-- **Real-time systems** — WebSockets, SSE, and conflict-free data sync patterns  
+- **GraphQL** - schema-first API design at scale  
+- **Turborepo** - monorepo architecture for enterprise Next.js apps  
+- **Edge Runtime & RSC** - pushing Next.js App Router to its limits  
+- **Real-time systems** - WebSockets, SSE, and conflict-free data sync patterns  
 
 ---
 
@@ -196,7 +196,7 @@ Cross-platform Node.js library for **native OS-level keyboard simulation** with 
 <div align="center">
 
 I'm open to **remote full-time or contract** opportunities globally.  
-Whether it's a complex system to build from scratch or a team that needs a reliable senior engineer — let's talk.
+Whether it's a complex system to build from scratch or a team that needs a reliable senior engineer - let's talk.
 
 <br/>
 
